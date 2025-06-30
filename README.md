@@ -1,1 +1,1 @@
-This repository file contains market analysis of PVC for CHE261 project.
+This repository file contains market analysis of PVC and FDCA for CHE261 project.
